@@ -42,6 +42,12 @@ yarn install
 yarn dev
 ```
 
+4. If you using git, delete the existing folder .git after cloning (open `git bash` or other terminal)
+
+```
+rm -rf .git
+```
+
 ## **Options ✍️**
 
 1. Check lint
