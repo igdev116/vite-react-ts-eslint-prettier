@@ -1,6 +1,8 @@
 <h1 align='center'>Vite + React + TypeScript + Eslint + Prettier Template ⚡</h1>
 
-Create a new project with Vite, React JS, TypeScript, Eslint, Prettier in just 1 second. You don't need to do anything anymore.
+Create a new project with Vite, React JS, TypeScript, Eslint, Prettier in just 1 second and you don't need to setup anything.
+
+#### **Vercel Deploy: https://vite-react-ts-eslint-prettier.vercel.app**
 
 ![image](https://user-images.githubusercontent.com/70432453/170648662-2ff424b9-74e9-4754-a04d-512fe1496a3b.png)
 
